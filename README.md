@@ -1,8 +1,13 @@
-# React + Vite
+# Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [Demo Link](https://quiz-app-mct-5.vercel.app/)
 
-Currently, two official plugins are available:
+# Overview
+ Created a visually appealing quiz app with various features to enhance the user experience and provide comprehensive feedback on performance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features Added
+
+- Total Score Calculation with Percentage.
+- Order Scramble on Each Reset.
+- Show Correct answer after selecting an option.
+- Showing list of wrong questions with the correct answers.
